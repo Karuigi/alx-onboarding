@@ -1,1 +1,8 @@
 
+Start 
+initial or declare a var
+if input var int > great than zero
+sum of the var + var
+else -var output
+terminate loop
+end
