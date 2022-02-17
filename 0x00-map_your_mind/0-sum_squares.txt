@@ -1,1 +1,5 @@
-
+Start here  Summ = 0
+then For Y = 1 to n do
+Summ = summ + Y * I
+Next Y
+Output / print  Sum
