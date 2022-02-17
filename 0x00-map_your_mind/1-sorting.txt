@@ -1,1 +1,14 @@
 
+Start 
+
+Input (var 1 , var 2 , Var 3)
+initialize and declare variable num
+if var 1 > var 2
+then you have num = var 1,,,, var 1 = var 2 then var 2 = num
+then you have num = var 1,,,, var 1 = var 3 then var 3 = num
+then you have num = var 1,,,, var 2 = var 3 then var 3 = num
+output will display the sorted version of the numbers lowest to highest
+display the values var 1 , 2 and 3
+
+Terminate
+ 
