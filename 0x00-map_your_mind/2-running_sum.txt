@@ -1,8 +1,11 @@
 
 Start 
-initial or declare a var
-if input var int > great than zero
-sum of the var + var
-else -var output
-terminate loop
-end
+initial or declare Read x
+Set sum to 0;
+While(x >= 0)
+ Set sum to x + sum
+ Read x
+ 
+ Terminate
+
+
